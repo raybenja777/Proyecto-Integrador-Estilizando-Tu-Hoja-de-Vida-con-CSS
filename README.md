@@ -13,3 +13,6 @@ Se aplican estilos de fondo y colores a los encabezados (h1) para resaltarlos.
 Se definen márgenes y relleno para párrafos (p), listas (ul), tablas (table) y formularios (form).
 Se definen estilos para los elementos de formulario, como etiquetas (label), campos de entrada de texto (input[type="email"], textarea), y botones de envío (input[type="submit"]).
 
+## Nota
+
+Ya que es la misma que la entrega del Sprint Review de HTMl, es el mismo enlace y el mismo archivo de entrega sol que actualizado a la entrega del Sprint Review de CSS
